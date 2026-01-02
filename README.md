@@ -17,7 +17,7 @@ The algorithm classifies SAB into two types based on timing and clinical context
      * Associated with neutropenia (Absolute Neutrophil Count < 500 cells/mm³).
 
 2. **Community-Acquired (CA-SAB):**
-   * [cite_start]Positive blood culture collected ≤48 hours after admission without meeting HA-SAB sub-criteria.
+   * Positive blood culture collected ≤48 hours after admission without meeting HA-SAB sub-criteria.
 
 ### Sustained Hypotension Criteria
 The cohort is further filtered for patients experiencing **hypotension** (Systolic Blood Pressure < 100 mmHg) lasting at least **one hour** during the SAB episode.
